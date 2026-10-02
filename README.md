@@ -9,7 +9,7 @@
 ## Expériences professionnelles
 
 
-###  Expériences Professionnelles
+###  Expériences Professionnelles:
 
 ####  Stagiaire Technicien Son — Agglomération Montargoise et Rives du Loing (AME)
 - **Théâtre du Tivoli (Montargis) :** Assistance technique, suivi de la création du spectacle pour l'humoriste Yohann Métay.
@@ -21,7 +21,7 @@
 
 ---
 
-### Compétences Techniques
+### Compétences Techniques:
 
 - **Câblage & Patch :** Branchements, gestion du câblage scénique et routage des signaux.
 - **Réglage du son & Balances :** Ajustement des niveaux, égalisation et sonorisation façades/retours.
@@ -31,14 +31,14 @@
 
 ---
 
-### Logiciels
+### Logiciels:
 
 - **Mixing Station** (Contrôle et gestion à distance des consoles numériques)
 - **DAW & Outils audio**
 
 ---
 
-### Pratique Instrumentale
+### Pratique Instrumentale:
 
 - **Piano**
 - **Chant**
@@ -47,7 +47,7 @@
  <center> 
 <div align="center">
 
-### 🛠️ Outils & Technologies
+### 🛠️ Outils & Technologies:
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white" alt="Windows 11">
 </p>
 
-### Mes Réseaux
+### Mes Réseaux:
 
 <p>
   <a href="https://www.instagram.com/gab_musique_45/" target="_blank">
