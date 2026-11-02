@@ -5,7 +5,7 @@
 ## Mon profil
 # <center> Ingénieur du son live & Développeur en devenir
 
-*Étudiant en STI2D option SIN (Systèmes Information et Numérique), rigoureux, méthodique et passionné par les environnements techniques exigeants. À l'aise aussi bien sur le terrain en régie son qu'avec le code, les systèmes et le hardware, je m'investis pleinement dans chaque projet.*
+*Étudiant en STI2D option SIN (Systèmes Information et Numérique), rigoureux, méthodique et passionné par les environnements techniques exigeants. À l'aise aussi bien sur le terrain en régie son (Façade / Retours) qu'avec le code, les systèmes et le hardware, je m'investis pleinement dans chaque projet.*
 
 ---
 
@@ -24,7 +24,11 @@
 
 ## 💡 Compétences Techniques
 
-- **Son & Scène :** Câblage et patch complexe, réglages de consoles analogiques/numériques, gestion des balances et des retours, placement et directivité micro.
+- **Son & Scène (Live) :** 
+  - Gestion de la **Façade** et des **Retours**.
+  - **Montage** complet et **câblage de scène** rigoureux.
+  - Maîtrise des consoles de mixage **analogiques** et **numériques** (ex: Behringer XR18, X32 et autres).
+  - Réglage des balances, gestion des micros et routage des signaux.
 - **Systèmes & Numérique (STI2D SIN) :** Programmation et intégration matérielle (C++, Arduino, notions de Python et de gestion de version Git).
 - **Systèmes d'exploitation :** Utilisation et bases de l'environnement Linux (Ubuntu), Windows 11.
 - **Méthode & Sécurité :** Rigueur dans l'installation, respect des consignes de sécurité, travail d'équipe et autonomie en milieu professionnel.
