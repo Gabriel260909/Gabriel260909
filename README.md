@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_1=181717&customColor_2=FF0000&height=180&section=header&text=Gabriel%20Tisserand&fontSize=FF0000&fontColor=&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_1=181717&customColor_2=FF0000&height=180&section=header&text=Gabriel%20Leray--Tisserand&fontSize=FF0000&fontColor=&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 ## Mon profil
